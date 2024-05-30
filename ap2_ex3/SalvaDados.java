@@ -1,6 +1,6 @@
 package ap2_ex3;
 
-//Classe responsável por salvar os dados do empregado:
+// Classe responsável EXCLUSIVAMENTE por salvar os dados do empregado:
 class SalvaDados {
 	public void save(Colaborador colaborador) {
 		// Código para salvar os dados do empregado no banco de dados
