@@ -11,7 +11,7 @@ class Colaborador {
 	private int idade; // Definição do campo idade
 	private double salario; // Definição do campo salario
 
-	public Colaborador(String nome, int idade, double salario) { // Construtor da classe Employee que inicializa os campos
+	public Colaborador(String nome, int idade, double salario) { // Construtor da classe colaborador que inicializa os campos
 		this.nome = nome; // Inicialização do campo 'nome' 
 		this.idade = idade; // Inicialização do campo 'idade' 
 		this.salario = salario; // Inicialização do campo 'salario'
