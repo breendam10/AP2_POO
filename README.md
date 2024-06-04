@@ -1,7 +1,8 @@
 # AP2 
 Repositório da AP2 de Progamação Orientada a Objeto
 
-
+## Curso: Ciências de dados e IA
+## Disciplina: Programação orientada a objeto
 
 Aluno | Matrícula
 --------------------------------|---------------------------
